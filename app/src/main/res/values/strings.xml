@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_in_with_facebook" translatable="false">Sign In With Facebook</string>
+    <string name="app_name" translatable="false">خطوة خير</string>
+    <string name="facebook_app_id" translatable="false">345059426356011</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb345059426356011</string>
+    <string name="google_maps" translatable="false">AIzaSyAxH-IJXvQBbVsTBwPiT-9VZYv9uSKfkmQ</string>
+</resources>

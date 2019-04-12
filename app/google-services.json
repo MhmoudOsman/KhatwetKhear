@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "584194623764",
+    "firebase_url": "https://khatwet-khear.firebaseio.com",
+    "project_id": "khatwet-khear",
+    "storage_bucket": "khatwet-khear.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584194623764:android:c2a834ef08a6549c",
+        "android_client_info": {
+          "package_name": "menna.mmdoh.khatwet_khear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584194623764-skm702as6vdjc311giurr4mgqkeoiog4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJVhC06mO9c7nF5p7svszaw-JYouDtVLc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
